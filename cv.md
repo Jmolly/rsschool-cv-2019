@@ -1,4 +1,4 @@
-# Roshkovsky Petr
+# Rashkouski Petr
 
 #### Contacts
 e-mail: roshkovskypetr@gmail.com  
