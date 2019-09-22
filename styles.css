@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', 'Arial', sans-serif;
+  line-height: 1.5;
+}
+
+.header {
+  padding: 15px 0;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  font-size: 24px;
+}
+
+.nav-item {
+  display: inline-block;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.nav-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #007fff;
+  padding: 20px 10px;
+}
