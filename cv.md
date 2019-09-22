@@ -20,6 +20,8 @@ Also it is so nice that all these wonderful people, this community tries to help
 
 #### Code Examples
 Random webpage: [All-In](https://github.com/Jmolly/All-In)
+Task from RSS: [Palette](https://jmolly.github.io/palette/)
+One more random layout: [XBox](https://jmolly.github.io/Xbox-one/)
 
 #### Education
 * Grodno City Gymnasium
